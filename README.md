@@ -25,6 +25,9 @@ for cybersecurity threats. 8 devices, 5 industrial protocols, 8 attack types.
  
 ## Security Alerts
 ![Alerts](screenshot_alerts.png)
+
+## Network Traffic
+![Traffic](screenshot_traffic.png)
  
 ## Industrial Protocols Covered
 - **OPC UA** (port 4840) — Siemens S7-1500, HMI, WinCC SCADA
